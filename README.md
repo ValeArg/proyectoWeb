@@ -1,2 +1,2 @@
-# proyectoWeb
-Este es un proyecto de capacitación en HTML, CSS y Javascript
+# probando
+Este es un repositorio creado para practicar Git
